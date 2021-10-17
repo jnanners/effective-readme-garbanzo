@@ -11,7 +11,7 @@
   To install the project simply clone the Github repo to a local repo on your computer!
   ## Usage
   To use the project you must have node.js installed. Navigate to your local repository in the terminal and type "node Develop/index.js" and answer the questions. Once you have finished a README.md file will be created in the dist folder, simply copy that README file and place it in the repository of your choosing!  
-  <a href="https://watch.screencastify.com/v/utmdRiNslEy45C8iA7wW" target="_blank">Video Guide!</a>
+  <a href="https://watch.screencastify.com/v/2GNpwU9PpU0rlXpIcqil" target="_blank">Video Guide!</a>
   ## License
   <a href='https://opensource.org/licenses/unlicense' target='_blank'>The Unlicensed</a>
   
