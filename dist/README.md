@@ -1,24 +1,24 @@
-# Sample Readme
+# objectively-spies
   ## Description  
   [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)  
-  This is a sample README created by my application 
+  This command line application will take user input and generate and HTML page for a development team.
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
   * [Questions](#questions)
   ## Installation
-  This is just a sample you can't install it
+  To install simply clone this repo onto your computer
   ## Usage
-  No instructions for use because this is a sample
+  Must have node.js to use. Navigate to the repo using the comman line and type node index.js to run, once you are finished a HTML page will be generated in the dist folder.
   ## License
   <a href='https://opensource.org/licenses/unlicense' target='_blank'>The Unlicensed</a>
   
   ## Contributing
-  You cannot contribute to this example
+  
   ## Tests
-  There are no tests for this example
+  
   ## Questions
   If you have questions you can:  
-  * Contact me on Github at [github.com/example-username](https://github.com/example-username)  
-  * Email me at example-email@gmail.com
+  * Contact me on Github at [github.com/john-harris-iii](https://github.com/john-harris-iii)  
+  * Email me at 
